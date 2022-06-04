@@ -7,7 +7,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  *
- * @author Abir Elşekaki
+ * @author IbrahimAlshekh
  */
 public class Chars {
     

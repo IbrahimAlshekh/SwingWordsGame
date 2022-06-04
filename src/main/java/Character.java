@@ -3,7 +3,7 @@ import java.awt.Point;
 
 /**
  *
- * @author Abir Elşekaki
+ * @author IbrahimAlshekh
  */
 public class Character {
     private Point position;

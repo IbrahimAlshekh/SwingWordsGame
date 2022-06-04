@@ -15,7 +15,7 @@ import java.util.Collections;
 
 /**
  *
- * @author Abir Elşekaki
+ * @author IbrahimAlshekh
  */
 public class GamePanel extends JPanel
 {

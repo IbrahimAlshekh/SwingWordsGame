@@ -4,7 +4,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Abir Elşekaki
+ * @author IbrahimAlshekh
  */
 public class Line {
     private Point pointStart;
